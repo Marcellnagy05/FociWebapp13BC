@@ -8,7 +8,7 @@
         public int VendegVeg { get; set; }
         public int HazaiFelido { get; set; }
         public int VendegFelido { get; set; }
-        public string HazaiCsapat { get; set; }
-        public string VendegCsapat { get; set; }
+        public string? HazaiCsapat { get; set; }
+        public string? VendegCsapat { get; set; }
     }
 }
